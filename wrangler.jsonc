@@ -4,5 +4,9 @@
   "compatibility_date": "2026-06-14",
   "assets": {
     "directory": "./public"
-  }
+  },
+  "routes": [
+    { "pattern": "qubaseball.com", "custom_domain": true },
+    { "pattern": "www.qubaseball.com", "custom_domain": true }
+  ]
 }
